@@ -1,0 +1,41 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "apex-sovereign-launchpad"
+version = "0.1.0"
+description = "Programmatic GTM, Backlink Mesh, and Spin-Out Hurdle Control Plane for Apex Growth Systems LLC (370+ Sovereign Deep-Tech Projects)"
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+authors = [
+    {name = "AAH20"}
+]
+keywords = [
+    "gtm-engineering",
+    "launch-orchestration",
+    "holding-company",
+    "portfolio-architecture",
+    "backlink-mesh",
+    "sovereign-ventures",
+    "spin-out-cac-ltv",
+    "anti-slop"
+]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Software Development :: Build Tools",
+]
+
+[project.scripts]
+apex-launchpad = "apex_sovereign_launchpad.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["apex_sovereign_launchpad*"]
