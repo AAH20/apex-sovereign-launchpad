@@ -79,7 +79,7 @@ Repository portfolio: https://github.com/AAH20/agentic-fintech-kernel
         elif pillar == MacroPillar.CLOUD_GRC_SOC:
             title = f"Show HN: We Built an Agentic vCISO with 1,100 Controls and Zero-Human Evidence Harvesters"
             target_hub = "a2zsoc"
-            abstract = f"""Compliance audits are typically months of manual screenshot collection. We developed a fleet of {count} continuous GRC and trust kernels under a2zsoc Corp and Apex Growth Systems LLC.
+            abstract = f"""Compliance audits are typically months of manual screenshot collection. We developed a fleet of {count} continuous GRC and trust kernels under the a2zsoc platform of Apex Growth Systems LLC.
 
 Features 1,100+ controls, 867 automated audit heuristics, and multi-cloud evidence extraction:
 * `cloud-grc-harvester`: Zero-credential read-only evidence collector across AWS, GCP, and Azure.

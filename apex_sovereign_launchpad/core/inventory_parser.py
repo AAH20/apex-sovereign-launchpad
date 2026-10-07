@@ -18,11 +18,11 @@ from apex_sovereign_launchpad.core.models import (
 )
 
 
-# The 4 Commercial Operating Hubs defined in Global_HoldingCompany_Architectures
+# The 4 Commercial Product Lines operated directly under Apex Growth Systems LLC
 COMMERCIAL_HUBS: Dict[str, CommercialHub] = {
     "a2zsoc": CommercialHub(
         hub_id="a2zsoc",
-        name="a2zsoc Corp (Enterprise GRC & Agentic vCISO Swarm)",
+        name="a2zsoc (Enterprise GRC & Agentic vCISO Platform)",
         target_buyer="Global Enterprise CISOs, Regulated Cloud Datacenters, GovCloud",
         value_proposition="1,100+ Controls, Zero-Human Evidence Harvester, Continuous vCISO",
         url="https://a2zsoc.com",
@@ -33,7 +33,7 @@ COMMERCIAL_HUBS: Dict[str, CommercialHub] = {
     ),
     "investor_os": CommercialHub(
         hub_id="investor_os",
-        name="InvestorOS LLC (Algorithmic M&A Diligence & Valuation)",
+        name="InvestorOS (Algorithmic M&A Diligence & Valuation Engine)",
         target_buyer="Private Equity GPs, M&A Sponsors, Venture Growth Funds",
         value_proposition="48-Hour Technical Diligence, Codebase Haircut Math, EBITDA Valuation",
         url="https://github.com/AAH20/ma-vdr-diligence-os",
@@ -44,7 +44,7 @@ COMMERCIAL_HUBS: Dict[str, CommercialHub] = {
     ),
     "sovereign_rails": CommercialHub(
         hub_id="sovereign_rails",
-        name="Sovereign Rails Corp (ISO 20022 & Multi-Rail Settlement)",
+        name="Sovereign Rails (ISO 20022 & Multi-Rail Settlement Engine)",
         target_buyer="Tier-1 Payment Processors, Neo-banks, Cross-Border Remitters",
         value_proposition="PCI DSS 4.0 Isolation, Sub-Cent Multi-Rail Arbitrage, PvP Clearing",
         url="https://github.com/AAH20/agentic-fintech-kernel",
@@ -55,7 +55,7 @@ COMMERCIAL_HUBS: Dict[str, CommercialHub] = {
     ),
     "computer_use": CommercialHub(
         hub_id="computer_use",
-        name="ComputerUse Corp (Kernel-Level Remote Desktop & Agent OS)",
+        name="ComputerUse (Kernel-Level Remote Desktop & Agent Sandbox)",
         target_buyer="AI Agent Scale-ups, Enterprise RPA Architects, Anthropic Ecosystem",
         value_proposition="Sub-500ms Ephemeral Sandbox, Atomic Rollbacks, Zero-CDP Fleet",
         url="https://github.com/AAH20/ghost-desktop",

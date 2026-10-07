@@ -15,10 +15,10 @@ class TestCockpitGenerator(unittest.TestCase):
         html = self.generator.generate_html(self.repos)
         self.assertIn("<!DOCTYPE html>", html)
         self.assertIn("Apex Growth Systems LLC", html)
-        self.assertIn("a2zsoc Corp", html)
-        self.assertIn("InvestorOS LLC", html)
-        self.assertIn("Sovereign Rails Corp", html)
-        self.assertIn("ComputerUse Corp", html)
+        self.assertIn("a2zsoc", html)
+        self.assertIn("InvestorOS", html)
+        self.assertIn("Sovereign Rails", html)
+        self.assertIn("ComputerUse", html)
         self.assertTrue(len(html) > 5000)
 
 

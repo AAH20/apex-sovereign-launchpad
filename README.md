@@ -16,7 +16,7 @@ A conventional venture model attempts to incorporate distinct legal entities for
 **Apex Sovereign Launchpad** operationalizes **Apex Growth Systems LLC** as a modern, sovereign holding entity over a portfolio of **554 repositories (370 original repositories)**:
 1. **Thematic Super-Launcher**: Bundles 370 projects into **6 Macro-Pillar Super-Launches**, eliminating fragmented, single-repo release fatigue.
 2. **Automated 370-Node Backlink Mesh**: Programmatically injects synchronized trust headers, sibling cross-pollination links, and commercial hub referral footers into every repository README.
-3. **4-Gate Spin-Out Hurdle Rate Engine**: Mathematically evaluates when an incubated cluster earns the right to graduate into a distinct operating subsidiary (e.g., `a2zsoc Corp`, `InvestorOS LLC`, `Sovereign Rails Corp`, `ComputerUse Corp`).
+3. **4-Gate Spin-Out Hurdle Rate Engine**: Mathematically evaluates when an incubated cluster earns the right to graduate from an internal product line of Apex Growth Systems LLC into a standalone legal entity (e.g., candidate spin-outs like `a2zsoc`, `InvestorOS`, `Sovereign Rails`, `ComputerUse`). Until hurdles are met, all projects remain 100% under Apex Growth Systems LLC.
 4. **Anti-Slop Propositional Filter**: Enforces Propositional Information Density ($\mathrm{PID} \ge 0.35$) and Shannon entropy thresholds to eliminate corporate marketing fluff.
 5. **Interactive Portfolio Cockpit**: Generates a self-contained Single Page Application (SPA) web portal for institutional buyers, partners, and investors.
 
@@ -35,11 +35,11 @@ flowchart TD
 
     ControlPlane --> MacroPillars
 
-    subgraph CommercialHubs["The 4 Graduate Commercial Operating Hubs"]
-        HubA["a2zsoc Corp<br/>(1,100+ Controls, Continuous vCISO Swarm)"]
-        HubB["InvestorOS LLC<br/>(M&A Technical Diligence and Valuation)"]
-        HubC["Sovereign Rails Corp<br/>(Multi-Rail Settlement and PCI DSS 4.0)"]
-        HubD["ComputerUse Corp<br/>(Sub-500ms Ephemeral Sandboxes)"]
+    subgraph CommercialHubs["The 4 Internal Commercial Product Lines (Apex Growth Systems LLC)"]
+        HubA["a2zsoc<br/>(1,100+ Controls, Continuous vCISO Swarm)"]
+        HubB["InvestorOS<br/>(M&A Technical Diligence and Valuation)"]
+        HubC["Sovereign Rails<br/>(Multi-Rail Settlement and PCI DSS 4.0)"]
+        HubD["ComputerUse<br/>(Sub-500ms Ephemeral Sandboxes)"]
     end
 
     MacroPillars ==>|"Automated 370-Node Backlink Mesh"| CommercialHubs
@@ -161,16 +161,16 @@ Empirical benchmark performance measured on Apple Silicon using Python 3.10+ sta
 
 1. **Wave I: NP-Hard & Microsecond Infrastructure** (53 Repos):
    * *Flagships*: `apex-industrial-solver`, `geospatial-np-hard-kernel`, `datacenter-np-hard-kernel`, `leo-satellite-constellation-kernel`.
-   * *Target Commercial Hub*: `InvestorOS LLC` & Custom Commercial Solver Licenses.
+   * *Target Commercial Hub*: `InvestorOS (Internal Product Line)` & Custom Commercial Solver Licenses.
 2. **Wave II: Sovereign FinTech & Multi-Rail Rails** (40 Repos):
    * *Flagships*: `agentic-fintech-kernel`, `cross-border-pvp-kernel`, `cfpb-1033-fdx-gateway`, `mica-stablecoin-reserve-auditor`.
-   * *Target Commercial Hub*: `Sovereign Rails Corp`.
+   * *Target Commercial Hub*: `Sovereign Rails (Internal Product Line)`.
 3. **Wave III: Cloud GRC, SOC & Enterprise Infrastructure** (42 Repos):
    * *Flagships*: `a2zsoc.com`, `cloud-grc-harvester`, `agentic-grc-fintech`, `ma-vdr-diligence-os`.
-   * *Target Commercial Hub*: `a2zsoc Corp`.
+   * *Target Commercial Hub*: `a2zsoc (Internal Product Line)`.
 4. **Wave IV: Computer-Use & Agent Workspaces** (17 Repos):
    * *Flagships*: `ghost-desktop`, `phantom-v8`, `swarm-desktop-os`, `agent-webrtc-stream`.
-   * *Target Commercial Hub*: `ComputerUse Corp`.
+   * *Target Commercial Hub*: `ComputerUse (Internal Product Line)`.
 5. **Wave V: Dual-Use Defense & Space Constellation** (27 Repos):
    * *Flagships*: `airgap-audit-breaker`, `Apex_ISR`, `Apex_Orbital_Sentinel`, `microsecond-kill-chain-dag`.
    * *Target Commercial Hub*: Sovereign Defense Advisory & SCIF Contracts.

@@ -12,7 +12,7 @@ class TestHurdleEvaluator(unittest.TestCase):
     def test_full_spinout_graduation(self):
         # Meets all 4 gates
         ev = self.evaluator.evaluate_candidate(
-            candidate_name="a2zsoc Corp",
+            candidate_name="a2zsoc",
             cac=3200.0,
             arpu=50000.0,
             annual_churn=0.04,

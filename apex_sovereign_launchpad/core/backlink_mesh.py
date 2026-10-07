@@ -31,7 +31,7 @@ class BacklinkMeshGenerator:
     ) -> str:
         """Generates holding company trust header and commercial referral footer for a repo."""
         hub = COMMERCIAL_HUBS.get(repo.target_commercial_hub or "a2zsoc")
-        hub_name = hub.name if hub else "a2zsoc Corp"
+        hub_name = hub.name if hub else "a2zsoc"
         hub_url = hub.url if hub else "https://a2zsoc.com"
         hub_val = hub.value_proposition if hub else "Enterprise Governance"
 

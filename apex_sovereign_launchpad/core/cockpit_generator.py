@@ -107,25 +107,25 @@ class CockpitGenerator:
   </div>
 
   <section class="hubs-section">
-    <h2>🏛️ Commercial Operating Hubs (Candidate Subsidiaries)</h2>
+    <h2>🏛️ Commercial Product Lines (Apex Growth Systems LLC)</h2>
     <div class="hubs-grid">
       <div class="hub-card">
-        <h3>a2zsoc Corp</h3>
+        <h3>a2zsoc</h3>
         <p>Enterprise GRC, Agentic vCISO & Continuous Evidence Harvester (1,100+ Controls).</p>
         <div class="eco">CAC:LTV = 1:37 to 1:140</div>
       </div>
       <div class="hub-card">
-        <h3>InvestorOS LLC</h3>
+        <h3>InvestorOS</h3>
         <p>Algorithmic Technical M&A Diligence & EBITDA Codebase Haircut Valuation.</p>
         <div class="eco">CAC:LTV = 1:120 to 1:430</div>
       </div>
       <div class="hub-card">
-        <h3>Sovereign Rails Corp</h3>
+        <h3>Sovereign Rails</h3>
         <p>ISO 20022 Engine, PCI DSS 4.0 Isolation & Real-Time PvP Multi-Rail Settlement.</p>
         <div class="eco">CAC:LTV = 1:23 to 1:92</div>
       </div>
       <div class="hub-card">
-        <h3>ComputerUse Corp</h3>
+        <h3>ComputerUse</h3>
         <p>Phantom-V8, Ghost-Desktop & WebRTC Canvas for Sub-500ms Ephemeral Sandboxes.</p>
         <div class="eco">CAC:LTV = 1:27 to 1:95</div>
       </div>
