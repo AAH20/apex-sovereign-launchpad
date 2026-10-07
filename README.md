@@ -7,6 +7,8 @@
 [![Dependencies: Zero](https://img.shields.io/badge/Dependencies-Zero%20(Pure%20Stdlib)-success.svg)](pyproject.toml)
 [![Tests: 100% Pass](https://img.shields.io/badge/Tests-14%2F14%20Passing-brightgreen.svg)](tests/)
 
+`gtm` • `launch-engineering` • `developer-marketing` • `open-source-growth` • `portfolio-management` • `growth-engineering` • `backlink-generator` • `seo-automation` • `product-launch` • `hacker-news` • `anti-slop` • `cac-ltv` • `holding-company` • `python` • `zero-dependency`
+
 ---
 
 ## 1. System Architecture
